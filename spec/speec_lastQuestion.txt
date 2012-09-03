@@ -1,0 +1,49 @@
+Please rate the items in the previous session according to their importance (ie. how important to you the product is in the given scenario), relevance (ie. whther the product is relevant to you personally in the given scenario) and easiness in determining quality before use (ie. how easy you can determine quality of product before using it).
+Rug      
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Painting
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Decorations
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Fragrance
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Wine
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Vacuum cleaner
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Cell phone
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Winter Coat
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Air-conditioner
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Face cleansing
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+Cold medicine
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
+First-aid kit
+Important 1 2 3 4 5 6 7 Unimportant
+Relevant 1 2 3 4 5 6 7 Irrelevant
+Quality can be determined before usage1 2 3 4 5 6 7 quality cannot be determined before usage
